@@ -1,9 +1,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heisaman&count_private=true&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on SRE, Monitoring and Alerting.
-- 🌱 I’m currently learning <<Programming Kubernetes>> and <<Kubernetes Operators>>.
-- 👯 I’m looking to collaborate on Cloud Infrasturcture.
-- 💬 Ask me about ...
+- 🌱 I’m currently reading *Programming Kubernetes* and *Kubernetes Operators*.
+- 👯 I’m looking to collaborate on Cloud Infrasturcture things.
+- 💬 Ask me about Kubernetes and Prometheus.
 - 📫 How to reach me: heyuwei0305@126.com
 
 <!--
